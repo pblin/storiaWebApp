@@ -1,0 +1,18 @@
+
+@font-face{font-family: "BB"; src: url(fonts/BodoniStd-Book.otf);}
+@font-face{font-family: "BI"; src: url(fonts/BodoniStd-BookItalic.otf);}
+@font-face{font-family: "AS"; src: url(fonts/ITCAvantGardeStd-Bk.otf);}
+
+
+.BB
+{
+font-family: "BB";
+}
+.BI
+{
+font-family: "BI";
+}
+.AS
+{
+font-family: "AS";
+}

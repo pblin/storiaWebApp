@@ -1,0 +1,122 @@
+.entry.YD {background: #FFFFFF; margin: 0px; padding: 15px 5px;height: 100%;}
+/*body {background: #FFFFFF;}*/
+
+.OD {
+	font-family:Arial, sans-serif;
+	font-size:16px;
+    color: #012f5e;
+	line-height:normal;
+}
+
+.OD .hw, .OD .var {
+    display:inline;
+    font-size:24px;
+    }
+
+.def, .deftext, .pron, .synList, .pronGrp {
+	display: inline;
+}
+    
+.heading {display:block;padding-top:2px;margin-top:10px;padding-bottom:2px;padding-left:1px;padding-right:0px;border-top:1px solid black;border-bottom:1px solid black;text-align: left;font-weight: bold;background-color:#B0E6FF}
+    
+.pron-icon {}
+
+.text {
+    display: block;
+    margin-top: 10px;
+ }
+
+.soundslike {
+	display: inline;
+	font-size:12px;
+    color:#FFFFFF;
+	border:1px solid black;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	background-color: #012f5e;
+}
+
+.sense-number {
+	font-weight: bold;
+	display: inline;
+}
+
+td {
+	text-align: left;
+	vertical-align: top;
+	padding-top: 10px;
+}
+
+td.sense-number {width: 12px;}
+
+.sense {
+	margin-top:10em;
+}
+
+.hom, .superscript {vertical-align:super;font-size:66%;}
+
+.form-icon {display:inline;}
+
+.form {display:inline; font-weight:bold;}
+
+.ex {
+	font-style:italic;
+	color: #0263B6;
+	margin-top:5px;
+}
+
+/*.label {display: inline;font-style:italic;font-size:90%;}*/
+
+.inflGrp, .formGrp {
+    margin-top:5px;
+}
+
+.shw {
+    margin-top:5px;
+}
+
+/*.formGrp > .pos, .inflGrp > .pos {display: inline;font-style:italic; font-weight: bold;} uncomment this line if the line below breaks something */
+
+.pos {display:inline; font-style:italic; font-weight: bold; margin-right:5}
+
+.factGrp {display:block; margin-top:0.5em;}
+.fact {display:block;}
+
+.synGrp, .antGrp {
+	padding-top: 5px;
+    color: #0263B6;
+}
+
+.xrefGrp {
+	display: none;
+}
+
+.xref A:link {
+     text-decoration: none;
+     color: #0263B6;     
+}
+
+.figure, .feature {
+	display:block;
+	margin-top:0.5em;
+	border:0px solid black;
+	padding-top:.5em;
+}
+.figure img {height:12em;}
+.figure {width:100%;text-align: center;}
+
+.feature {background-color:#FFFF99; padding-left:5px; padding-right:5px; padding-bottom:5px; border:1px solid black;}
+
+.caption {
+	display:block;
+	font-weight:normal;
+	padding-bottom:0px;
+	vertical-align: bottom;
+	text-align: center;
+	font-style: italic;
+}
+
+.head {display:block;font-weight:bold;margin-bottom:0.25em;text-align: center;}
+.p {display:block;text-indent:0;margin-bottom:0.25em;}

@@ -1,0 +1,51 @@
+.entry.YD{background: #d7f1ff; margin: 0px; padding: 10px;height: 100%;}
+
+.YD {
+	font-family:Arial, sans-serif;
+	font-size:18px;
+	line-height:normal;
+	color: #012f5e;
+}
+
+.YD .hw {
+	font-size:36px;
+	font-weight: bold;
+}
+
+.YD .pronGrp {font-weight: normal;}
+
+.YD td {
+	text-align: left;
+	vertical-align: top;
+	padding-top: 12px;
+}
+
+.YD .sense-number {
+	font-weight: bold;
+	display: inline;
+}
+
+.YD td.sense-number {width: 20px;}
+
+.YD .ex {
+	font-style:italic;
+	margin-top: 12px;
+	color: #0263b6;
+}
+
+.YD .figure, .YD .feature {
+	margin-top:10px;
+    text-align: center;
+}
+
+.YD .figure img {
+    border:1px solid #012f5e;       
+}
+
+.YD .replacedImage {
+    border:1px solid #012f5e;       
+}
+
+.YD .caption {
+	font-style: italic;
+}

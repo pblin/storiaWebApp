@@ -1,0 +1,363 @@
+body
+{
+width: 900px;
+height: 1328px;
+position:absolute;
+}
+
+@font-face
+{
+font-family: "page190";
+font-weight: normal;
+src: url(font/BASIC.TTF);
+}
+@font-face
+{
+font-family: "page108";
+font-weight: normal;
+src: url(font/GFYFATHM.TTF);
+}
+
+@font-face
+{
+font-family: "Stone";
+font-weight: normal;
+font-style: bold;
+src: url(font/STOIITCM.TTF);
+}
+
+@font-face
+{
+font-family: "Super";
+font-weight: normal;
+font-style: bold;
+src: url(font/SupernormaleT.ttf);
+}
+@font-face
+{
+font-family: "inlineitalic";
+font-weight: normal;
+font-style: italic;
+src: url(font/STIITCMI.TTF);
+}
+
+@font-face
+{
+font-family: "page173";
+font-weight: normal;
+src: url(font/BURLINGP.TTF);
+}
+@font-face
+{
+font-family: "page143";
+font-weight: normal;
+src: url(font/GFYFATHM.TTF);
+}
+@font-face
+{
+font-family: "page76";
+font-weight: normal;
+src: url(font/MISSROBE.TTF);
+}
+@font-face
+{
+font-family: "page189";
+font-weight: normal;
+src: url(font/COURIEBO.TTF);
+}
+
+.chaptertitle
+{
+font-family: "itc-medium";
+margin-top: 65px;
+margin-bottom: 0px;
+margin-left: 210px;
+font-size: 40px;
+letter-spacing: 0.5px;
+line-height: 35px;
+
+}
+
+.text
+{
+font-family: "Stone";
+text-align:justify;
+font-size:26.25px;
+}
+.text1
+{
+font-family: "Stone";
+text-align:justify;
+}
+.pagel
+{
+font-family: "Super";
+font-size: 22.5px;
+color:#000;
+}
+.pager
+{
+font-family: "Super";
+font-size: 22.5px;
+margin-left:680px;
+color:#000;
+}
+
+small
+{
+font-size: 19px;
+letter-spacing:4px;
+letter-spacing:-0.5px;
+}
+
+.cpy
+{
+font-family: "Chalet";
+margin-top: 50px;
+margin-bottom: 0px;
+margin-left: 100px;
+margin-right: 0px;
+font-size: 20px;
+letter-spacing: -0.5px;
+}
+.cpy1
+{
+font-family: "Chalet";
+margin-top: 10px;
+margin-bottom: 0px;
+margin-left: 100px;
+margin-right: 0px;
+font-size: 18px;
+letter-spacing: -0.5px;
+}
+.cpy2
+{
+font-family: "Chalet";
+margin-top: 45px;
+margin-bottom: 10px;
+margin-left: 100px;
+margin-right: 0px;
+font-size: 18px;
+line-height: 28px;
+}
+.cpy3
+{
+font-family: "Chalet";
+margin-top: 35px;
+margin-bottom: 10px;
+margin-left: 100px;
+margin-right: 0px;
+font-size: 18px;
+line-height: 28px;
+}
+.cpy4
+{
+font-family: "Chalet";
+margin-top: 22px;
+margin-bottom: 10px;
+margin-left: 100px;
+margin-right: 0px;
+font-size: 18px;
+line-height: 28px;
+}
+.cpy5
+{
+font-family: "Chalet";
+margin-top: 280px;
+margin-bottom: 10px;
+margin-left: 250px;
+margin-right: 0px;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+}
+.add
+{
+font-family: "Chalet";
+margin-top: 58px;
+margin-bottom: 0px;
+margin-left: 150px;
+margin-right: 0px;
+font-size: 24px;
+letter-spacing: -0.5px;
+text-align: center;
+}
+.add1
+{
+font-family: "Chalet";
+margin-top: 270px;
+margin-bottom: 0px;
+margin-left: 150px;
+margin-right: 0px;
+font-size: 20px;
+letter-spacing: -0.5px;
+text-align: center;
+}
+.add2
+{
+font-family: "Chalet";
+margin-top: 10px;
+margin-bottom: 0px;
+margin-left: 150px;
+margin-right: 0px;
+font-size: 24px;
+letter-spacing: -0.5px;
+text-align: center;
+}
+.add3
+{
+font-family: "Chalet";
+margin-top: 690px;
+margin-bottom: 0px;
+margin-left: 150px;
+margin-right: 0px;
+font-size: 24px;
+letter-spacing: -0.5px;
+text-align: center;
+}
+
+.quote
+{
+font-family: "page108";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+margin-left: 95px;
+font-size: 26.25px;
+letter-spacing: -0.5px;	
+line-height: 35px;
+}
+.quote1
+{
+font-family: "page108";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+margin-left: 95px;
+font-size: 33px;
+letter-spacing: -0.5px;
+line-height: 35px;
+}
+.quote2
+{
+font-family: "page108";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+margin-left: 95px;
+font-size: 21px;
+letter-spacing: -0.5px;
+line-height: 35px;
+}
+.quote3
+{
+font-family: "page190";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+margin-left: 95px;
+font-size: 26px;
+letter-spacing: -0.5px;
+line-height: 35px;
+}
+span.underline
+{
+text-decoration:underline;
+}
+.copyright
+{
+font-family: "Stone";
+margin-top: 0px;
+text-align:center;
+margin-bottom: 0px;
+text-align:justify;
+font-size: 18px;
+}
+.copyright1
+{
+font-family: "itc-medium";
+margin-top: 4px;
+margin-left: 70px;
+text-align:center;
+margin-bottom: 0px;
+font-size: 33px;
+line-height: 37px;
+}
+.copyright2
+{
+font-family: "itc-medium";
+margin-top: 4px;
+margin-left: 230px;
+text-align:center;
+margin-bottom: 0px;
+font-size: 31px;
+line-height: 37px;
+}
+span.italic
+{
+font-family:"inlineitalic";
+font-style:italic;
+}
+div.center{
+font-family: "page173";
+text-align:center;
+font-size: 40px;
+
+}
+div.center1{
+font-family: "page143";
+text-align:center;
+font-size: 30px;
+
+}
+div.center2{
+font-family: "page76";
+text-align:center;
+font-size: 38px;
+
+}
+div.center3{
+font-family: "page76";
+font-size: 38px;
+text-align:justify;
+}
+div.center4{
+font-family: "page189";
+font-size: 25px;
+text-align:center;
+}
+div.center5{
+font-family: "Super";
+font-weight:bold;
+font-size:75px;
+text-align:center;
+
+}
+.footr
+{
+font-size: 22.5px;
+margin-left:515px;
+color:#000;
+letter-spacing:-0.5px;
+-moz-transform: rotate(-90deg);
+-webkit-transform: rotate(-90deg);
+font-family: "Super";
+}
+.footl
+{
+font-size: 22.5px;
+margin-left:-270px;
+color:#000;
+letter-spacing:-0.5px;
+-moz-transform: rotate(-90deg);
+-webkit-transform: rotate(-90deg);
+font-family: "Super";
+}
+.pager1
+{
+font-family: "Super";
+font-size: 22.5px;
+margin-left:680px;
+color:#000;
+letter-spacing:-0.5px;
+}

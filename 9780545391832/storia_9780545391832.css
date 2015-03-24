@@ -1,0 +1,1004 @@
+body
+{
+width: 756px;
+height: 1098px;
+}
+
+@font-face
+{
+font-family: "p14";
+font-weight: normal;
+font-style: normal;
+src: url(font/TOONS.TTF);
+}
+@font-face
+{
+font-family: "dol";
+font-weight: normal;
+font-style: normal;
+src: url(font/DOLORESR.TTF);
+}
+@font-face
+{
+font-family: "fru";
+font-weight: normal;
+font-style: normal;
+src: url(font/FrutigerUnic-BlackCondensed.ttf);
+}
+@font-face
+{
+font-family: "fu";
+font-weight: normal;
+font-style: normal;
+src: url(font/FuturaStd-CondensedBoldObl.otf);
+}
+@font-face
+{
+font-family: "amer";
+font-weight: normal;
+font-style: normal;
+src: url(font/AmericanTypewriterStd-Med.otf);
+}
+@font-face
+{
+font-family: "p81-1";
+font-weight: normal;
+font-style: normal;
+src: url(font/CCZOINKS.TTF);
+}
+@font-face
+{
+font-family: "lithopro";
+font-weight: normal;
+font-style: normal;
+src: url(font/LithosPro-Black.otf);
+}
+@font-face
+{
+font-family: "ame";
+font-weight: normal;
+font-style: normal;
+src: url(font/AMERICTB.TTF);
+}
+@font-face
+{
+font-family: "imp";
+font-weight: normal;
+font-style: normal;
+src: url(font/impact.ttf);
+}
+@font-face
+{
+font-family: "p13";
+font-weight: normal;
+font-style: normal;
+src: url(font/COMICBOT.TTF);
+}
+@font-face
+{
+font-family: "p87";
+font-weight: normal;
+font-style: normal;
+src: url(font/HELVETIB.TTF);
+}
+@font-face
+{
+font-family: "p130-1";
+font-weight: normal;
+font-style: normal;
+src: url(font/SHELLEAS.TTF);
+}
+@font-face
+{
+font-family: "p81";
+font-weight: normal;
+font-style: normal;
+src: url(font/FUTURA-1.TTF);
+}
+@font-face
+{
+font-family: "c1";
+font-weight: normal;
+font-style: italic;
+src: url(font/CochinLTStd-Italic.otf);
+}
+@font-face
+{
+font-family: "psmt";
+font-weight: normal;
+font-style: normal;
+src: url(font/Comic-SansMS.ttf);
+}
+@font-face
+{
+font-family: "hel";
+font-weight: normal;
+font-style: normal;
+src: url(font/HELVETIC.TTF);
+}
+@font-face
+{
+font-family: "com";
+font-weight: normal;
+font-style: normal;
+src: url(font/COMICBOO.TTF);
+}
+@font-face
+{
+font-family: "p130-2";
+font-weight: normal;
+font-style: normal;
+src: url(font/SHELLEAS.TTF);
+}
+@font-face
+{
+font-family: "Life";
+font-weight: normal;
+font-style: normal;
+src: url(font/LIFE-ROM.TTF);
+}
+@font-face
+{
+font-family: "fi";
+font-weight: normal;
+font-style: normal;
+src: url(font/FRUTIGBI.TTF);
+}
+@font-face
+{
+font-family: "arial";
+font-weight: normal;
+font-style: normal;
+src: url(font/arial.ttf);
+}
+@font-face
+{
+font-family: "future";
+font-weight: bold;
+font-style: normal;
+src: url(font/FUTUCEBO.TTF);
+}@font-face
+{
+font-family: "Futurebo";
+font-weight: normal;
+font-style: normal;
+src: url(font/FUTUCEBO.TTF);
+}
+@font-face
+{
+font-family: "LifeItlaic";
+font-weight: normal;
+font-style: italic;
+src: url(font/LIFE-ITA.TTF);
+}
+@font-face
+{
+font-family: "Futura";
+font-weight: normal;
+font-style: italic;
+src: url(font/FUTURACB.TTF);
+}
+@font-face
+{
+font-family: "fruti";
+font-weight: normal;
+font-style: normal;
+src: url(font/FRUTIGEB.TTF);
+}
+@font-face
+{
+font-family: "frutib";
+font-weight: normal;
+font-style: normal;
+src: url(font/FRUTIGBI.TTF);
+}
+@font-face
+{
+font-family: "Lifebold";
+font-weight: bold;
+src: url(font/LIFE-BOL.TTF);
+}
+@font-face
+{
+font-family: "Gil";
+font-weight: normal;
+font-style: normal;
+src: url(font/GILLSANS.TTF);
+}
+@font-face
+{
+font-family: "GilB";
+font-weight: normal;
+font-style: normal;
+src: url(font/GILLSANB.TTF);
+}
+@font-face
+{
+font-family: "itc-medium";
+font-weight: normal;
+font-style: italic;
+src: url(font/Stone-Inf-ITC-Bold.ttf);
+}
+@font-face
+{
+font-family: "Shellea1";
+font-weight: bold;
+font-style: normal;
+src: url(font/SHELLEA1.TTF);
+}
+@font-face
+{
+font-family: "Comicbob";
+font-weight: bold;
+font-style: normal;
+src: url(font/COMICBOB.TTF);
+}
+@font-face
+{
+font-family: "Comicbon";
+font-weight: bold;
+font-style: normal;
+src: url(font/COMICBON.TTF);
+}
+@font-face
+{
+font-family: "Doloresb";
+font-weight: normal;
+font-style: normal;
+src: url(font/DOLORESB.TTF);
+}
+@font-face
+{
+font-family: "Kids";
+font-weight: normal;
+font-style: normal;
+src: url(font/KIDSN.TTF);
+}
+@font-face
+{
+font-family: "bkd";
+font-weight: normal;
+font-style: normal;
+src: url(font/BOOKMAND.TTF);
+}
+@font-face
+{
+font-family: "bkb";
+font-weight: normal;
+font-style: normal;
+src: url(font/BOOKMANB.TTF);
+}
+@font-face
+{
+font-family: "bkm";
+font-weight: normal;
+font-style: normal;
+src: url(font/BOOKMANM.TTF);
+}
+@font-face
+{
+font-family: "bdi";
+font-weight: normal;
+font-style: normal;
+src: url(font/BookmanStd-DemiItalic.otf);
+}
+@font-face
+{
+font-family: "trb";
+font-weight: normal;
+font-style: normal;
+src: url(font/TrajanPro-Bold.otf);
+}
+@font-face
+{
+font-family: "qua";
+font-weight: normal;
+font-style: normal;
+src: url(font/QUAKE.TTF);
+}
+@font-face
+{
+font-family: "oct";
+font-weight: normal;
+font-style: normal;
+src: url(font/OCTOPSHB.TTF);
+}
+@font-face
+{
+font-family: "gti";
+font-weight: normal;
+font-style: normal;
+src: url(font/GillSansStd-Italic.otf);
+}
+
+@font-face
+{
+font-family: "p4";
+font-weight: normal;
+font-style: normal;
+src: url(font/CCCHILLS.TTF);
+}
+
+@font-face
+{
+font-family: "p37";
+font-weight: normal;
+font-style: normal;
+src: url(font/CCMONSTM.TTF);
+}
+@font-face
+{
+font-family: "spu";
+font-weight: normal;
+font-style: normal;
+src: url(font/SPUMONI.TTF);
+}
+
+a
+{
+text-decoration:none;
+
+}
+.copyright
+{
+font-family: "Life";
+text-align:justify;
+font-size:17px;
+}
+.copyright1
+{
+font-family: "LifeItlaic";
+text-align:justify;
+font-size:17px;
+font-style:italic;
+}
+span.copy{
+font-family: "LifeItlaic";
+font-style:italic;
+font-size:25px;
+}
+span.copy1{
+font-family: "LifeItlaic";
+font-style:italic;
+font-size:27px;
+}
+span.it{
+font-family: "bdi";
+font-style:italic;
+font-size:23px;
+}
+
+.header
+{
+font-family: "Life";
+font-size: 24px;
+font-weight:normal;
+}
+.chaptertitle
+
+{
+font-family: "Life";
+font-size: 60px;
+font-weight:normal;
+}
+.chaptertitle1
+
+{
+font-family: "Life";
+font-size: 48px;
+font-weight:normal;
+}
+.chaptertitle2
+
+{
+font-family: "Life";
+font-size: 56px;
+font-weight:normal;
+}
+
+.c3
+
+{
+font-family: "Kids";
+font-size: 42px;
+font-weight:normal;
+color:#EC008D;
+}
+
+.para0
+{
+font-family: "Life";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:26px;
+}
+.para
+{
+font-family: "Life";
+text-align:justify;
+font-size:28px;
+}
+.para1
+{
+font-family: "Doloresb";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:34px;
+}
+.para_1
+{
+font-family: "Doloresb";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:32px;
+}
+.para1-1
+{
+font-family: "Doloresb";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:31px;
+}
+.p1-1
+{
+font-family: "Doloresb";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:31px;
+}
+.para2
+{
+font-family: "Shellea1";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:44px;
+}
+.para3
+{
+font-family: "Comicbob";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:32px;
+}
+.para4
+{
+font-family: "Comicbob";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:32px;
+}
+.para5
+{
+font-family: "Impact";
+margin-top: 0px;
+margin-bottom: 20px;
+text-align:justify;
+font-size:32px;
+}
+.para5-1
+{
+font-family: "Impact";
+font-size:27px;
+}
+.para6
+{
+font-family:"Kids";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:24px;
+}
+.para7
+{
+font-family:"bkd";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:24px;
+}
+.para8
+{
+font-family:"bkb";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:22px;
+}
+.para9
+{
+font-family:"bkm";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:20px;
+}
+.para10
+{
+font-family:"trb";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:22px;
+}
+.pr10
+{
+font-family:"trb";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:26px;
+}
+.para-10
+{
+font-family:"trb";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:34px;
+}
+.para_10
+{
+font-family:"trb";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:20px;
+}
+.para11
+{
+font-family:"Gil";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:26px;
+text-align:justify;
+}
+.para11-1
+{
+font-family:"Gil";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:24px;
+text-align:justify;
+}
+.para11-2
+{
+font-family:"Gil";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:22px;
+text-align:justify;
+}
+.para12
+{
+font-family:"GilB";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:23px;
+color:#EE1C25;
+text-align:justify;
+}
+.para12-1
+{
+font-family:"GilB";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:26px;
+text-align:justify;
+font-weight:bold;
+}
+.pageno
+{
+font-family: "Life";
+font-size:24px;
+color:#000;
+letter-spacing:-0.5px;
+}
+.footr
+{
+font-size: 30px;
+font-family: "Super";
+}
+.p23{font-family:"Kids";font-size:27px;}
+.p22{font-family:"Kids";font-size:24px;}
+.bold
+{
+font-family: "bkm";
+text-align:justify;
+font-size:25px;
+}
+.comic
+{font-family:"Comicbon";font-size:40px;}
+.comic1
+{font-family:"Comicbon";font-size:31px;}
+.p6
+{
+font-family:"LifeItlaic";font-size:24px;
+}
+.p7-1
+{
+font-family:"trb";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:27px;
+font-style:italic;
+}
+.p7-2
+{
+font-family:"LifeItlaic";font-size:34px;
+}
+.p7
+{
+font-family:"LifeItlaic";font-size:28px;
+}
+.quake{
+font-family: "qua";
+font-size:46px;
+}
+.quake1{
+font-family: "qua";
+font-size:32px;
+}
+.octo{
+font-family: "oct";
+font-size:32px;
+}
+.octo1{
+font-family: "oct";
+font-size:36px;
+color:#007DC5;
+}
+.lb{
+font-family: "Lifebold";
+}
+.life{
+font-family: "Life";
+font-size:16px;
+text-align:justify;
+}
+.life-b{
+font-family: "Lifebold";
+font-size:19px;
+text-align:justify;
+font-weight:bold;
+}
+.life-it{
+font-family: "LifeItlaic";
+font-size:16px;
+text-align:justify;
+font-style:italic;
+}
+.blue{
+font-family: "gti";
+font-size:26px;
+color:#0067B3;
+font-style:italic;
+text-align:justify;
+}
+.p9
+{
+font-family:"bkm";
+margin-top: 0px;
+margin-bottom: 20px;
+color:#D80E8C;
+font-size:26px;
+}
+.p10
+{
+font-family: "Life";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:22.48px;
+}
+
+.p11
+{
+font-family: "Life";
+margin-top: 0px;
+margin-bottom: 20px;
+color:#D80E8C;
+font-size:22.48px;
+}
+.p16
+{
+font-family: "Kids";
+color:#EC008D;
+font-weight:bold;
+font-size:25px;
+}
+
+.p12
+{
+font-family: "Life";
+margin-top: 0px;
+margin-bottom: 20px;
+color:#EE1C25;
+font-size:22.48px;
+}
+.p13
+{
+font-family: "fruti";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:17px;
+}
+.p13-1
+{
+font-family: "fruti";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:18px;
+}
+.p13-2
+{
+font-family: "frutib";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:18px;
+}
+
+.p14
+{
+font-family:"Gil";
+margin-top: 0px;
+margin-bottom: 20px;
+font-size:26px;
+color:#D80E8C;
+text-align:justify;
+}
+.p41
+{
+font-family: "Life";
+font-size:18px;
+}
+.p41-1
+{
+font-family: "Life";
+font-size:36px;
+}
+.p15
+{
+font-family: "Life";
+text-align:justify;
+color:#D80E8C;
+font-size:28px;
+}
+.p15-1
+{
+font-family: "Life";
+text-align:justify;
+font-size:31px;
+font-weight:bold;
+}
+.map
+{
+font-family:"Life";
+font-size:40px;
+}
+.p117
+{
+font-family:"Life";
+font-size:21px;
+}
+.p126
+{
+font-family:"Futura";
+font-size:17px;
+font-weight:bold;
+}
+.p126-1
+{
+font-family:"fu";
+font-size:56px;
+color:#ED1C24;
+}
+.p126-2
+{
+font-family:"Futurebo";
+font-size:26px;
+color:#ED1C24;
+}
+.future
+{
+font-family:"future";
+font-size:16px;
+}
+.future2
+{
+font-family:"future";
+font-size:20px;
+}
+.future1
+{
+font-family:"future";
+font-size:18px;
+}
+.p25{
+font-family:"com";
+font-size:22px;
+}
+.p26{
+font-family:"fi";
+font-size:18px;
+font-style:italic;
+}
+.p130-1
+{
+font-family: "p130-1";
+font-size:36px;
+}
+.p130-2
+{
+font-family: "p130-2";
+}
+.p27
+{
+font-family:"com";
+font-size:24px;
+}
+.p31
+{
+font-family:"com";
+font-size:25px;
+}
+.p28{
+font-family:"Kids";
+font-size:26px;
+}
+.p30{
+font-family:"Kids";
+font-size:28px;
+}
+.p107{
+font-family:"Kids";
+font-size:45px;
+}
+.p16-1{
+font-family:"Kids";
+font-size:32px;
+color:#00A88E;
+}
+.p108{
+font-family:"psmt";
+font-size:42px;
+color:#EBC844;
+}
+.coc
+{
+font-family: "c1";
+font-size:36px;
+font-style:italic;
+}
+.p81
+{
+font-family: "p81";
+font-size:28px;
+color:#2367B3;
+}
+.p37
+{
+font-family: "p81";
+font-size:20px;
+}
+.p37-1
+{
+font-family: "p81";
+font-size:24px;
+}
+.p37-2
+{
+font-family: "p81";
+font-size:28px;
+}
+.p81-1
+{
+font-family: "p81-1";
+font-size:36px;
+color:#EC008D;
+}
+.p81-2
+{
+font-family: "p81-1";
+font-size:32px;
+color:#EC008D;
+}
+.p82
+{
+font-family: "p81-1";
+font-size:34px;
+color:#EC008D;
+}
+.p88{
+font-family: "p81-1";
+font-size:40px;
+color:#D80E8C;
+}
+.p87
+{
+font-family: "p87";
+font-size:34px;
+color:#EE1C25;
+}
+span.p4{
+font-family: "p4";
+font-size:40px;
+color:#C76631;
+}
+span.pink{
+font-family: "p81-1";
+font-size:40px;
+color:#D80E8C;
+}
+.p13_1
+{
+font-family: "p13";
+font-size:32px;
+}
+.house{
+font-family: "hosue";
+font-weight:bold;
+font-size:24px;
+}
+.imp{
+font-family: "imp";
+font-weight:bold;
+font-size:28px;
+}
+.imp1{
+font-family: "imp";
+font-size:40px;
+}
+.ame{
+font-family:"ame";
+font-size:52px;
+font-weight:bold;
+}
+.ame1{
+font-family:"ame";
+font-size:40px;
+font-weight:bold;
+}
+.p14-1{
+font-family: "p14";
+font-size:36px;
+}
+div.page37{
+font-family: "p37";
+font-size:40px;
+}
+.p27-1
+{
+font-family: "p81-1";
+font-size:28px;
+color:#D80E8C;
+}
+.hel{
+font-family:"hel";
+font-size:20px;
+}
+.kid{
+font-family:"Kids";
+font-size:16px;
+}
+.amm{
+font-family:"amer";
+font-size:24px;
+}
+.p31_1{
+font-family:"spu";
+font-size:28px;
+color:#EE1B3B;
+}
+.p33_1{
+font-family:"lithopro";
+font-size:23px;
+color:#0B4EA2;
+}
+.fru{
+font-family:fru;
+font-size:20px;
+}
+.dol{
+font-family:"dol";
+font-size:38px;
+font-weight:italic;
+}

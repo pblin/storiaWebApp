@@ -1,0 +1,59 @@
+<a href="/" id='interaction-button' data-interaction ="-1" ><span class="under-bolt"></span></a>
+<div id="sound"></div>
+<div id="game-area"></div>
+<a id="show-utility" class="utility-clicker" href="#"><img src="./imgs/icons/btn_plusSign.png" alt="Show Options" /></a>
+<div id="utility-veil"></div>
+<div id="utility1">
+    <div class="content">
+        <div class="left">
+            <a href="/" id="bookshelfBtn"><img src="./imgs/icons/btn_books.png" alt="Bookshelf" /></a>
+            <a href="#" id="zoomBtn"><img src="./imgs/icons/btn_zoom-in.png" alt="Zoom in" /></a>
+            <a href="#" id="picStart"><img src="./imgs/icons/btn_palette.png" alt="Picture Starter" /></a>
+        </div>
+        <div class="right">
+            <a href="#" id="notesBtn"><img src="./imgs/icons/btn_pin.png" alt="Notes" /></a>
+            <a href="#" id="highlightBtn"><img src="./imgs/icons/btn_marker.png" alt="Highlights" /></a>
+            <a href="#" id="helpBtn"><img src="./imgs/icons/btn_question.png" alt="Help" /></a>
+        </div>
+        <div class="book-title"><%= bookTitle %></div>
+    </div>
+</div>
+<div id="utility2">
+    <div class="content">
+	    <div id="slider-bar" class="turnjs-slider">
+		    <div id="slider"></div>
+	    </div>
+    </div>
+</div>
+<div id="notesPopupWrapper">
+    <a id="addnoteBtn" href="#">Add Note</a>
+    <div id="notesBody"></div>
+    <a href="#" id="notesCloseBtn"></a>
+</div>
+<div id='audio'></div>
+<div id="scholastic-right-content">
+    
+    <a id="next-page-button" href="#" role="button" aria-label="Next Page" accesskey="n" style="display:none"></a>
+    <a id="prev-page-button" href="#" role="button" aria-label="Previous Page" accesskey="p" style="display:none"></a>
+    <div id ="scholastic-book-view-el" class="twso-pages">
+        <div id ="page-wrap" class="clearfix">
+            <div id="container" class="flipbook"></div>
+            <div style="clear:both"></div>
+        </div>
+        <div style="clear:both;height:200px" ></div>
+    </div>
+    <audio id="dicAudio" src=""></audio>
+    <div id="dictPopup">
+        <div id="dictPopupWrapper">
+            <div id="dictBody"></div>
+        </div>
+        <a href="#" id="dictClose"></a>
+    </div>
+    <div id="youngdictPopup">
+        <div id="youngdictPopupWrapper">
+            <div id="youngdictBody"></div>
+        </div>
+        <img src="./imgs/PronIcon.jpg" alt="" title="" class="young-pron-icon">
+        <a href="#" id="youngdictClose"></a>
+    </div>
+</div>

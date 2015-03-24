@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SIConfigFile>
+  <!-- template v1 -->
+  <StoryInteractions>
+    <StoryInteraction StoryInteractionType="TitleTwister">
+      <!-- aka Word Twister -->
+      <DocumentPageNumber>22</DocumentPageNumber>
+      <Position>0,0</Position>
+      <BookTitle Phrase="BEYOND THE GRAVE" />
+      <!-- Phrase value is taken from Keyword in interaction script -->
+      <Words Words="adherent, beverage, everyone, generate, honeybee, hydrogen, overhang, renovate, another, baronet, bayonet, beneath, bondage, breadth, breathy, broaden, debater, derange, devotee, earthen, grenade, hearten, hydrant, hydrate, revenge, teenage, thereby, thereon, tragedy, veteran, adhere, advent, adverb, advert, agreed, anther, ardent, avenge, banter, beaten, beater, beaver, behave, behead, betray, botany, brandy, breath, danger, debate, debtor, degree, denote, devote, donate, dragon, earthy, energy, gander, garden, garnet, gather, gender, govern, greed, harden, hatred, hearty, heater, heaven, hereby, hereto, hornet, nearby, neater, negate, nether, orange, ornate, regent, reheat, rodent, tavern, theory, thorny, thread, throne, throng, trendy, vendor, voyage, above, adore, adorn, agent, agony, agree, anger, angry, avert, badge, barge, baron, bathe, baton, beady, beard, began, beret, berth, board, borne, brand, brave, bravo, bread, breed, broad, broth, death, derby, drone, drove, eager, earth, eaten eater, ebony, enter, entry, erode, event, every, gator, genre, grade, grand, grant, grate, gravy, great, greed, green, groan, grove, handy, hardy, hater, haven, heard, heart, heave, heavy, hedge, Henry, heron, hoard, Hogan, honey, horde, hover, hydra, hydro, hyena, needy, nerve, never, north, orate, organ, other, ovary, ovate, overt, radon, randy, range, raven, ready, reeve, tango, tangy, tardy, tenor, three, throb, today, trade, tread, trend, vegan, verge, yearn, aged, ahoy, bade, band, bane, bang, bare, barn, bate, bath, bead, bean, bear, beat, beet, bend, bent, beta, boar, Beth, boat, bode, bond, bone, bony, bore, born, both, brag, bran, bred, byte, dare, date, dean, dear, debt, deer, dent, deny, done, dote, dove, drab, drag, earn, edge, edgy, envy, even, eyed, garb, gate, gave, gear, gene, gnat, goat, gone, gore, gory, grab, grad, gray, grey, gyro, hand, hang, hard, hare, hate, have, head, hear, heat, heed, herb, herd, here, hero, horn, nave, navy, near, neat, need, node, note, nova, oath, obey, ogre, oven, over, rage, rang, rant, rate, rave, read, reed, rent, road, robe, rode, tang, tear, teen, tend, than, thee, then, they, toad, tone, tong, Tony, tore, torn, tray, tree, vend, vent, verb, very, veto, vote, yang, yard, yarn, yeah, year, yoga, yore, age, ago, and, ant, any, are, art, ate, bad, bag, ban, bar, bat, bay, bed, bee, beg, bet, boa, bog, boy, bye, dab, day, den, doe, dog, dot, dry, dye, ear, eat, ego, end, era, eve, eye, gay, get, gob, god, got, had, hat, hay, hen, her, hey, hoe, hog, hot, nab, net, nod, nor, not, oar, oat, ode, one, orb, rag, ran, rat, ray, red, rob, rod, rot, rye, tab, tad, tag, tan, tar, tea, Ted, tee, ten, thy, toe, ton, toy, try, van, vat, vet, yea, yen, yet" />
+      <!-- Words values are taken from Valid Answers in interaction script. Each word should be comma seperated. These lists can be very long! Make sure there are no line breaks when pasting the words in. -->
+    </StoryInteraction>
+    <StoryInteraction StoryInteractionType="WordScrambler">
+      <DocumentPageNumber>62</DocumentPageNumber>
+      <Position>100, 20</Position>
+      <Scramble Clue="This lie put Dan and Amy in a tight spot." Answer="ALISTAIR IS DEAD" />
+      <!-- Clue value is taken from Intro, Answer value is taken from Answer in interaction script. -->
+      <Hint index="1,14,15" />
+      <!-- If clue letters are highlighted in the interaction script, replace the * with the number value of the character. So if the "i" in "pie" was highlighted it's number value would be "2". -->
+    </StoryInteraction>
+    <StoryInteraction StoryInteractionType="TitleTwister">
+      <!-- aka Word Twister -->
+      <DocumentPageNumber>71</DocumentPageNumber>
+      <Position>0,0</Position>
+      <BookTitle Phrase="SIMPLE BIOLOGY" />
+      <!-- Phrase value is taken from Keyword in interaction script -->
+      <Words Words="BIOLOGIES, BIOLOGISM, GLOBOSELY, MYOLOGIES, SEMIOLOGY, BEGLOOMS, ELIGIBLY, GLOOMILY, GOSPELLY, LIPOSOME, MISOLOGY, MOBILISE, PLIMSOLE, POLYSOME, BEGLOOM, BILLIES, BOGYISM, BOOGEYS, BOOGIES, EMPLOYS, EPIBOLY, EPILOGS, GILLIES, GLIMPSE, GLOBOSE, IMPLIES, LEGIBLY, LIMPSEY, LOOBIES, LOOPILY, LOOSELY, MEGILPS, MISBILL, MOBILES, MOLLIES, MOOLEYS, MYOPIES, OBELISM, OBLIGES, OLOGIES, PIGMIES, PLIMSOL, POLYOLS, POMELOS, PYGMIES, SEMILOG, SLIMILY, BILGES, BILLIE, BIOMES, BIOPSY, BLIMEY, BLIMPS, BLOOEY, BLOOIE, BLOOMS, BLOOMY, BLOOPS, BLYPES, BOGEYS, BOGIES, BOGLES, BOOGEY, BOOGIE, BOSOMY, EGOISM, EMBOLI, EMBOLY, EMPLOY, EPILOG, GILLIE, GIMELS, GLIBLY, GLIMES, GLOBES, GLOOMS, GLOOMY, GOBIES, GOBOES, GOLEMS, GOMBOS, GOOSEY, GOSPEL, IGLOOS, IMPELS, IMPOSE, ISOLOG, LIBELS, LILIES, LIMBOS, LIMEYS, LIMPLY, LIMPSY, LOGILY, LOOEYS, LOOIES, MEGILP, MILLES, MISLIE, MOBILE, MOLIES, MOLLIE, MOOLEY, MYOPES, OBIISM, OBLIGE, OBOLES, OILILY, OSMOLE, PILOSE, POBOYS, POGEYS, POGIES, POLEIS, POLIES, POLIOS, POLYOL, POMELO, POSOLE, SIGLOI, SIMILE, SIMPLY, SLIMLY, SMELLY, SMILEY, SOLELY, SOLGEL, SYMBOL, BEIGY, BELLS, BELLY, BESOM, BIGLY, BIGOS, BILES, BILGE, BILGY, BILLS, BILLY, BIOGS, BIOME, BLIMP, BLIMY, BLIPS, BLOGS, BLOOM, BLOOP, BLYPE, BOGEY, BOGIE, BOGLE, BOILS, BOLES, BOLLS, BOLOS, BOOGY, BOOMS, BOOMY, BOSOM, BOYOS, GIBES, GILLS, GILLY, GIMEL, GIMPS, GIMPY, GIPSY, GISMO, GLEYS, GLIME, GLIMS, GLOBE, GLOBS, GLOMS, GLOOM, GLOPS, GOBOS, GOLEM, GOLLY, GOMBO, GOOEY, GOOPS, GOOPY, GOOSE, GOOSY, GOYIM, GYBES, IGLOO, IMPEL, IMPIS, IMPLY, LESBO, LIBEL, LILOS, LIMBI, LIMBO, LIMBS, LIMBY, LIMES, LIMEY, LIMOS, LIMPS, LISLE, LOBES, LOBOS, LOGES, LOGOI, LOGOS, LOOBY, LOOEY, LOOIE, LOOMS, LOOPS, LOOPY, LOOSE, LOPES, LOSEL, MELLS, MILES, MILLE, MILLS, MILOS, MOILS, MOLES, MOLLS, MOLLY, MOOLS, MOOSE, MOPES, MOPEY, MOSEY, MYOPE, OBELI, OBEYS, OBOES, OBOLE, OBOLI, OBOLS, OGLES, OLEOS, OLIOS, OLOGY, OSMOL, PIGMY, PILEI, PILES, PILIS, PILLS, PLEBS, PLIES, PLOYS, POBOY, POEMS, POESY, POGEY, POISE, POLES, POLIO, POLIS, POLLS, POLOS, POLYS, POMES, POMOS, POOLS, SEPOY, SIBYL, SIGIL, SILLY, SLILY, SLIME, SLIMY, SLIPE, SLOOP, SLOPE, SLYPE, SMELL, SMILE, SOLEI, SOOEY, SPEIL, SPELL, SPIEL, SPILE, SPILL, SPOIL, SPOOL, YELLS, YELPS, YILLS, YIPES, YLEMS, YOGIS, BEGS, BELL, BELS, BEYS, BIGS, BILE, BILL, BIOG, BIOS, BISE, BLIP, BLOG, BOGS, BOGY, BOIL, BOLE, BOLL, BOLO, BOOM, BOOS, BOPS, BOYO, BOYS, BYES, EGIS, EGOS, ELLS, ELMS, ELMY, EPOS, ESPY, GELS, GEMS, GIBE, GIBS, GIES, GILL, GIMP, GIPS, GLEY, GLIB, GLIM, GLOB, GLOM, GLOP, GOBO, GOBS, GOBY, GOES, GOOP, GOOS, GOYS, GYBE, GYMS, GYPS, IBIS, ILLS, ILLY, IMPI, IMPS, ISLE, LEGS, LEIS, LEYS, LIBS, LIES, LILO, LILY, LIMB, LIME, LIMO, LIMP, LIMY, LIPE, LIPS, LISP, LOBE, LOBO, LOBS, LOGE, LOGO, LOGS, LOGY, LOOM, LOOP, LOOS, LOPE, LOPS, LOSE, LYES, LYSE, MEGS, MELL, MELS, MIBS, MIGS, MILE, MILL, MILO, MILS, MIPS, MISE, MISO, MOBS, MOGS, MOIL, MOLE, MOLL, MOLS, MOLY, MOOL, MOOS, MOPE, MOPS, MOPY, OBES, OBEY, OBIS, OBOE, OBOL, OGLE, OILS, OILY, OLEO, OLES, OLIO, OOPS, OPES, OYES, PEGS, PESO, PIES, PIGS, PILE, PILI, PILL, PILY, PISO, PLEB, PLIE, PLOY, POEM, POGY, POIS, POLE, POLL, POLO, POLS, POLY, POME, POMO, POMS, POOL, POOS, POSE, POSY, PYES, SEGO, SELL, SEMI, SILL, SILO, SIMP, SIPE, SLIM, SLIP, SLOB, SLOE, SLOG, SLOP, SMOG, SOIL, SOLE, SOLI, SOLO, SOME, SYBO, SYLI, YELL, YELP, YEPS, YILL, YIPE, YIPS, YLEM, YOBS, YOGI, BEG, BEL, BES, BEY, BIG, BIO, BIS, BOG, BOO, BOP, BOS, BOY, BYE, BYS, EGO, ELL, ELM, ELS, EMS, GEL, GEM, GEY, GIB, GIE, GIP, GOB, GOO, GOS, GOY, GYM, GYP, ILL, IMP, ISM, LEG, LEI, LES, LEY, LIB, LIE, LIP, LIS, LOB, LOG, LOO, LOP, LYE, MEG, MEL, MIB, MIG, MIL, MIS, MOB, MOG, MOL, MOO, MOP, MOS, OBE, OBI, OES, OIL, OLE, OMS, OPE, OPS, OSE, PEG, PES, PIE, PIG, PIS, PLY, POI, POL, POM, POO, PSI, PYE, SEG, SEI, SEL, SIB, SIM, SIP, SLY, SOB, SOL, SOM, SOP, SOY, SPY, YEP, YES, YIP, YOB, YOM, BE, BI, BO, BY, EL, EM, ES, GO, IS, LI, LO, ME, MI, MO, MY, OE, OI, OM, OP, OS, OY, PE, PI, SI, SO, YE, YO " />
+      <!-- Words values are taken from Valid Answers in interaction script. Each word should be comma seperated. These lists can be very long! Make sure there are no line breaks when pasting the words in. -->
+    </StoryInteraction>
+    <StoryInteraction StoryInteractionType="WordScrambler">
+      <DocumentPageNumber>80</DocumentPageNumber>
+      <Position>100, 20</Position>
+      <Scramble Clue="This touristy T-shirt made for a good disguise. " Answer=" I WANT MY MUMMY" />
+      <!-- Clue value is taken from Intro, Answer value is taken from Answer in interaction script. -->
+      <Hint index="4,8,15" />
+      <!-- If clue letters are highlighted in the interaction script, replace the * with the number value of the character. So if the "i" in "pie" was highlighted it's number value would be "2". -->
+    </StoryInteraction>
+    <StoryInteraction StoryInteractionType="WhoSaidIt">
+      <DocumentPageNumber>110</DocumentPageNumber>
+      <!-- Page numbers start at the first page of the XPS file, which is the cover of the book. Page numbers in the interactive script refer to printed page numbers in the book. That means you have to add the difference between how the ereader counts pages and the printed page number. To find the difference you need to add to the interaction script page numbers, open the XPS in XPS Viewer and start counting from the cover to the first printed page number. Add this number to the page number indicated in the interaction script and put that value above. -->
+      <Position>100,5</Position>
+      <Distracter Index="6" />
+      <!-- Index value is a number. It should be the number position of the Distracter in the Quote column in the interaction script. -->
+      <Statements>
+        <Statement Source="Jonah Wizard " Transcript="They don’t know that I’m da bomb? " />
+        <!-- Source value is the name in the Match column. Transcript value is taken from the Quote column. -->
+        <Statement Source="Theo Cotter" Transcript="No trip to Egypt is complete without a Nile cruise on a felucca. " />
+        <Statement Source="Dan " Transcript="Whoa, she has a beard.  The queen is a dude!" />
+        <Statement Source="Nellie" Transcript="Well, value is in the eye of the beholder when it comes to family heirlooms, isn’t it?  My family has been passing along the most hideous vase shaped like a pineapple for ages. "></Statement>
+        <Statement Source="Mr. Wizard " Transcript="Obviously, here in Egypt, they aren’t aware that you’re a global brand." />
+        <Statement Source="Amy " Transcript="" />
+        <!-- Delete * from the Transcript value for whomever is the distractor. -->
+      </Statements>
+    </StoryInteraction>
+    <StoryInteraction StoryInteractionType="PopQuiz">
+      <!-- aka Do You Know -->
+      <DocumentPageNumber>138</DocumentPageNumber>
+      <Position>180,10</Position>
+      <Quiz>
+        <Question>
+          <QuestionPrompt Transcript="Who was in the tomb with Amy and Dan? " />
+          <!-- Question and answer Transcript values are taken from their respective sections.  -->
+          <Answers>
+            <Answer Transcript="Bae Oh " />
+            <Answer Transcript="Irina Spasky " IsCorrect="true" />
+            <Answer Transcript="Ian Kabra " />
+            <Answer Transcript="Theo Cotter" />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="Which part of Irina Spasky’s body was poisonous? " />
+          <Answers>
+            <Answer Transcript="Her fingernails " IsCorrect="true" />
+            <Answer Transcript="Her hair " />
+            <Answer Transcript="Her elbows" />
+            <Answer Transcript="Her feet " />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="What did Amy lose in the tomb? " />
+          <Answers>
+            <Answer Transcript="Grace’s guidebook " IsCorrect="true" />
+            <Answer Transcript="Dan’s laptop " />
+            <Answer Transcript="Nellie’s cell phone " />
+            <Answer Transcript="Her wallet" />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;All of the following hieroglyphics were identified by Dan EXCEPT for: " />
+          <Answers>
+            <Answer Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;River" />
+            <Answer Transcript="Cliff" />
+            <Answer Transcript="Obelisk " />
+            <Answer Transcript="Pyramid " IsCorrect="true" />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="Which baseball team did Dan and the fisherman talk about? " />
+          <Answers>
+            <Answer Transcript="New York Yankees" />
+            <Answer Transcript="Atlanta Braves" />
+            <Answer Transcript="Boston Red Sox " IsCorrect="true" />
+            <Answer Transcript="Philadelphia Phillies " />
+          </Answers>
+        </Question>
+      </Quiz>
+      <ScoreResponseLow Transcript="You don’t have to be clueless – try again!" />
+      <!-- Transcript values for ScoreResponse's are taken from the Response column in the interaction script.  -->
+      <ScoreResponseMedium Transcript="Nice work!  You’ve got a clue!" />
+      <ScoreResponseHigh Transcript="Perfect score! You could be a Cahill! " />
+    </StoryInteraction>
+    <StoryInteraction StoryInteractionType="AboutYouQuiz">
+      <DocumentPageNumber>162</DocumentPageNumber>
+      <Position>180,10</Position>
+      <Introduction Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;In &quot;Beyond the Grave,&quot; Dan and Amy stumble upon the Ekat Stronghold! Take this quiz to find out which famous Ekat you’re most like!" />
+      <!-- Transcript value taken from Introduction text in interaction script -->
+      <Quiz Label="Quiz Name">
+        <Question>
+          <!-- There can be 3-10 questions. Add or delete everything between <Question> and </Question> to add or delete questions.-->
+          <QuestionPrompt Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;It’s the end of the year and your classmates are nominating each other for awards! Which of the below best suits you? " />
+          <!-- Transcript value taken from Question text. -->
+          <Answers>
+            <Answer Transcript="Most Popular Student" />
+            <!-- There can be 2-5 possible answers. Add or delete <Answer Transcript="*"/> elements as neccessary.  -->
+            <!-- Transcript value is taken from each question set, in the same order as interaction script -->
+            <Answer Transcript="Most Creative Student" />
+            <Answer Transcript="Most Daring Student " />
+            <Answer Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;Smartest Student " />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="For a history report, you have to select a famous person from one of four categories. Which one do you choose? " />
+          <Answers>
+            <Answer Transcript="Leaders and presidents " />
+            <Answer Transcript="Inventors " />
+            <Answer Transcript="Explorers and archaeologists " />
+            <Answer Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;Scientists " />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="How would your closest friends describe you? " />
+          <Answers>
+            <Answer Transcript="Honest and kind " />
+            <Answer Transcript="Creative and imaginary " />
+            <Answer Transcript="Adventurous and curious " />
+            <Answer Transcript="Intelligent and smart " />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="What is your ideal class field trip? " />
+          <Answers>
+            <Answer Transcript="A trip to Washington D.C. to visit the White House " />
+            <Answer Transcript="A trip to Hollywood to visit film studios " />
+            <Answer Transcript="A trip to the Metropolitan Museum of Art in New York City  " />
+            <Answer Transcript="A trip to Adler Planetarium in Chicago  " />
+          </Answers>
+        </Question>
+        <Question>
+          <QuestionPrompt Transcript="What is your favorite school subject? " />
+          <Answers>
+            <Answer Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;Government " />
+            <Answer Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;Science " />
+            <Answer Transcript="History " />
+            <Answer Transcript="Math " />
+          </Answers>
+        </Question>
+        <OutcomeMessages>
+          <!-- There can be 2-5 possible OutcomeMessage, delete as needed. -->
+          <OutcomeMessage Transcript="You’re most like Abraham Lincoln! Like America’s 16th President, you are kind, honest, and an excellent leader!" />
+          <!-- Transcript value should be taken from Message column, in the order they are listed. -->
+          <OutcomeMessage Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;You’re most like Thomas Edison! Like the inventor of the light bulb, you are creative, innovative, and full of big ideas!" />
+          <OutcomeMessage Transcript="You are most like Howard Carter! Like the discoverer of King Tut’s tomb, you are daring, adventurous, and have a knack for history!" />
+          <OutcomeMessage Transcript="&#x9;&#xD;&#xA;&#xD;&#xA;You are most like Albert Einstein! Like this famous scientist, you are intelligent, original, and you excel at math and science!" />
+        </OutcomeMessages>
+        <TiebreakOrder Transcript="D, C, A, B" />
+        <!-- Make the Transcript value blank if no Tiebreak Order is indicated in script, so that it looks like this: Transcript="" -->
+        <!-- Tie break order indicates the priority of outcome message to use when you have the same number of answers for a category -->
+      </Quiz>
+    </StoryInteraction>
+    <StoryInteraction StoryInteractionType="CardCollection" ID="cc">
+      <DocumentPageNumber>196</DocumentPageNumber>
+      <Position>0,0</Position>
+      <header src="cc_header.png" />
+      <Cards>
+        <Card srcfront="cc_card1front.png" srcback="cc_card1back.png" />
+        <Card srcfront="cc_card2front.png" srcback="cc_card2back.png" />
+        <Card srcfront="cc_card3front.png" srcback="cc_card3back.png" />
+        <Card srcfront="cc_card4front.png" srcback="cc_card4back.png" />
+        <Card srcfront="cc_card5front.png" srcback="cc_card5back.png" />
+        <Card srcfront="cc_card6front.png" srcback="cc_card6back.png" />
+      </Cards>
+    </StoryInteraction>
+  </StoryInteractions>
+</SIConfigFile>

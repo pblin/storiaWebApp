@@ -1,0 +1,29 @@
+@font-face{font-family: "AV"; src: url(fonts/AvenirLTStd-Roman.otf);}
+@font-face{font-family: "SB"; src: url(fonts/SABOB.TTF);}
+@font-face{font-family: "SR"; src: url(fonts/SABOR.TTF);}
+
+
+.AV
+{
+font-family: "AV";
+}
+.SB
+{
+font-family: "SB";
+}
+.SR
+{
+font-family: "SR";
+}
+
+p.copy
+{
+font-size: 14px;
+font-family: AV;
+text-align: center;
+}
+p.para
+{
+font-size: 40px;
+font-family: SR;
+}
